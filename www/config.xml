@@ -23,5 +23,6 @@
 	<gap:platform name="android" />
 
 	<gap:splash src="res/splash/android/screen-hdpi-portrait.jpg" />
+	<preference name="splash-screen-duration" value="5000"/>
 	
 </widget>
