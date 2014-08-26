@@ -22,6 +22,6 @@
 	<gap:platform name="ios" />
 	<gap:platform name="android" />
 
-	<gap:splash src="res/splash/android/xhdpi.png" />
+	<gap:splash src="res/splash/android/screen-mdpi-portrait.jpg" />
 	
 </widget>
